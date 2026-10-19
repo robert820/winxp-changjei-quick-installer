@@ -1,0 +1,12 @@
+# 系統與編輯器暫存檔
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+.vscode/
+.idea/
+
+# 品牌與未公開圖示（改用 GitHub 外鏈託管）
+*logo*
+*Logo*
